@@ -1,0 +1,11 @@
+/Users/momo/Desktop/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.csprojAssemblyReference.cache
+/Users/momo/Desktop/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.csproj.CoreCompileInputs.cache
+/Users/momo/Desktop/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.AssemblyInfoInputs.cache
+/Users/momo/Desktop/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.AssemblyInfo.cs
+/Users/momo/Desktop/HungryNinja/bin/Debug/netcoreapp2.2/HungryNinja.deps.json
+/Users/momo/Desktop/HungryNinja/bin/Debug/netcoreapp2.2/HungryNinja.runtimeconfig.json
+/Users/momo/Desktop/HungryNinja/bin/Debug/netcoreapp2.2/HungryNinja.runtimeconfig.dev.json
+/Users/momo/Desktop/HungryNinja/bin/Debug/netcoreapp2.2/HungryNinja.dll
+/Users/momo/Desktop/HungryNinja/bin/Debug/netcoreapp2.2/HungryNinja.pdb
+/Users/momo/Desktop/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.dll
+/Users/momo/Desktop/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.pdb
